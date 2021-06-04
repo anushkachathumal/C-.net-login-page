@@ -1,0 +1,5 @@
+c:\users\chathumal\documents\visual studio 2015\Projects\mysqllogin\mysqllogin\bin\Debug\mysqllogin.exe.config
+c:\users\chathumal\documents\visual studio 2015\Projects\mysqllogin\mysqllogin\obj\Debug\mysqllogin.csprojResolveAssemblyReference.cache
+c:\users\chathumal\documents\visual studio 2015\Projects\mysqllogin\mysqllogin\obj\Debug\mysqllogin.Form1.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\mysqllogin\mysqllogin\obj\Debug\mysqllogin.Properties.Resources.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\mysqllogin\mysqllogin\obj\Debug\mysqllogin.csproj.GenerateResource.Cache
